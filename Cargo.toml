@@ -2,6 +2,8 @@
 name = "set_enum_fields"
 version = "0.1.5"
 edition = "2021"
+description = "Adds the ability to set the fields of an enum, and return the fields of enum mutable. Based on enum-fields"
+license = "Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
